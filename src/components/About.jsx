@@ -19,10 +19,12 @@ function About() {
           <div>
             <p>
               I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expret available at your fingertips?
+              the lives of those around me. As a Full Stack Developer, I
+              specialize in both front-end and back-end technologies, allowing
+              me to create seamless and efficient solutions. From crafting
+              intuitive user interfaces using cutting-edge frameworks like React
+              to building robust server-side applications with
+              Node.js and .Net Core, I thrive in the entire development stack.
             </p>
           </div>
         </div>
